@@ -1,0 +1,24 @@
+author: Your Name
+company: Your Company
+document_date: "2024-10-06"
+city: Hamburg
+
+cent_per_km: 30
+small_catering_money: 1400
+big_catering_money: 2800
+
+month: Oktober
+entries:
+  - day: 5
+    start_time: "11:20"
+    traveled_km: 12
+    subject: Important Stuff
+  - day: 6
+    subject: Important Stuff
+  - day: 7
+    subject: More Important Stuff
+  - day: 8
+    end_time: "14:24"
+    subject: Extremely Important Stuff
+
+signature_image: path/to/your/signature.png

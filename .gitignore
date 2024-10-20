@@ -1,0 +1,10 @@
+# Perosonal details
+details.yml
+signature.*
+
+# Generated files
+computed.yml
+*.pdf
+
+# Rust
+target
